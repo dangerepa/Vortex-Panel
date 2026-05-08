@@ -1,4 +1,4 @@
-%Second Order Vortex Panel Method, Aidan Sabin, May 2026
+%Second Order Vortex Panel Method, Aidan Bryce Sabin, May 2026
 clc; clear; close all;
 %% Inputs
 [x, y] = generate_naca4('2412', 100); %100 makes 200 panels which is a good number
