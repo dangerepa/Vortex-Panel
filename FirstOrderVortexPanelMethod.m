@@ -1,4 +1,4 @@
-%First Order Vortex Panel Method, Aidan Sabin, May 2026
+%First Order Vortex Panel Method, Aidan Bryce Sabin, May 2026
 clc; clear; close all;
 
 %% Inputs and stuff
