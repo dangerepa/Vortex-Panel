@@ -1,4 +1,4 @@
-%% main_uvlm.m
+%% main_unsteady.m
 % Aidan Bryce Sabin, May 2026
 % Unsteady Vortex Panel Method, Aidan Bryce Sabin, May 2026
 % Unsteady Vortex Lattice Method (2D)
